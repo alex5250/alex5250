@@ -1,7 +1,7 @@
 ### Hello my name is Alex
 
-So i am working hard in developing drones.
-Key developer of [Electrics Eagles](www.eeagles.net) . 
+So i am working hard in developing drones.   \
+Coding for  [Electrics Eagles](www.eeagles.net) . 
 
 I am mostly low level guy.. calc bits,clocks and write on C++/C ,Rust make fun for me
 
