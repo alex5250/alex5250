@@ -3,20 +3,20 @@
 So i am working hard in developing drones. I am mostly low level guy.. calc bits,clocks and write on C++/C ,Rust make fun for me
 
 So during my software journey i was used:
-C++,
-C
-Rust,
-Node.JS
-Vanila.JS + HTML + CSS
-Python
-Bash
-C#
+- C++
+- C
+- Rust,
+- Node.JS
+- Vanila.JS + HTML + CSS
+- Python
+- Bash
+-C#
 
 
 Currently study:
-F#
-AI on Python 
-Hackell 
+- F#
+- AI on Python 
+-Hackell 
 
 
 
