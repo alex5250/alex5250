@@ -1,6 +1,5 @@
 ### Hello my name is Alex
-
-So i am working hard in developing drones.   \
+I am working  on open source drone platform.\
 Coding for  [Electrics Eagles](www.eeagles.net) . 
 
 I am mostly low level guy.. calc bits,clocks and write on C++/C ,Rust make fun for me
