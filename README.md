@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hello my name is Alex
 
-<!--
-**alex5250/alex5250** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+So i am working hard in developing drones. I am mostly low level guy.. calc bits,clocks and write on C++/C ,Rust make fun for me
 
-Here are some ideas to get you started:
+So during my software journey i was used:
+C++,
+C
+Rust,
+Node.JS
+Vanila.JS + HTML + CSS
+Python
+Bash
+C#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Currently study:
+F#
+AI on Python 
+Hackell 
+
+
+
+Favorite OS : Windows XP / Manajro Linux 21.6
+Laptop: Asus Zenbook UX331U  with 2TB hard drive
+Keyboard : Logitech K380
