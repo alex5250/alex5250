@@ -1,6 +1,9 @@
 ### Hello my name is Alex
 
-So i am working hard in developing drones. I am mostly low level guy.. calc bits,clocks and write on C++/C ,Rust make fun for me
+So i am working hard in developing drones.
+Key developer of (Electrics Eagles)[www.eeagles.net] . 
+
+I am mostly low level guy.. calc bits,clocks and write on C++/C ,Rust make fun for me
 
 So during my software journey i was used:
 - C++
