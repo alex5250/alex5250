@@ -22,4 +22,4 @@ Currently study:
 
 Favorite OS : Windows XP / Manjaro Linux 21.6 \
 Laptop: Asus Zenbook UX331U  with 2TB hard drive  \
-Keyboard : Logitech K380 \
+Keyboard : Logitech K380 
