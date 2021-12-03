@@ -12,7 +12,7 @@ So during my software journey i was used:
 - Vanila.JS + HTML + CSS
 - Python
 - Bash
--C#
+- C#
 
 
 Currently study:
@@ -42,4 +42,7 @@ Nice links for everybody:
 15. https://active-vision.ru/icon/box-shadow/
 17. https://app.quicktype.io/
 18. https://www.remotion.dev/
+19. https://github.com/vdeconinck/QC3Control
+20. https://m.habr.com/ru/company/ua-hosting/blog/342826/ (ru)
+21. https://www.renderforest.com/logo-maker/editor
 
