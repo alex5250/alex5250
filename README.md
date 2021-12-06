@@ -18,7 +18,7 @@ So during my software journey i was used:
 Currently study:
 - F#
 - AI on Python 
--Hackell 
+- Hackell 
 
 
 
