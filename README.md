@@ -22,7 +22,7 @@ Currently study:
 
 
 
-Favorite OS : Windows XP / Manjaro Linux 21.6 \
+Favorite OS : Windows XP / Manjaro Linux 21.6 /  Fedora 35 with KDE \
 Laptop: Asus Zenbook UX331U  with 2TB hard drive  \
 Keyboard : Logitech K380 
 
