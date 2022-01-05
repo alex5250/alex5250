@@ -46,3 +46,4 @@ Nice links for everybody:
 20. https://m.habr.com/ru/company/ua-hosting/blog/342826/ (ru)
 21. https://www.renderforest.com/logo-maker/editor
 
+[ZeptaScreen-main.zip](https://github.com/alex5250/alex5250/files/7818336/ZeptaScreen-main.zip)
