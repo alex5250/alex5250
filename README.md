@@ -48,3 +48,7 @@ Nice links for everybody:
 21. https://www.renderforest.com/logo-maker/editor
 
 [ZeptaScreen-main.zip](https://github.com/alex5250/alex5250/files/7818336/ZeptaScreen-main.zip)
+
+
+Simple hacks:
+<script src="https://gist.github.com/alex5250/91c8b8bacdafc0d110ecd50282ad7549.js"></script>
