@@ -5,7 +5,6 @@ Coding for  [Electrics Eagles](https://www.eeagles.net) . \
 Website : https://alex5250.github.io/alex5250/ \
 I am mostly low level guy.. calc bits,clocks and write on C++/C ,Rust make fun for me  
 
-**[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2301A9F7&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)**
  
 So during my software journey i was used:
 - C++
