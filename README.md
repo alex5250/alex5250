@@ -3,7 +3,7 @@
 I am working  on open source drone platform.\
 Coding for  [Electrics Eagles](https://www.eeagles.net) . \
 Website : https://alex5250.github.io/alex5250/ \
-I am mostly low level guy.. calc bits,clocks and write on C++/C ,Rust make fun for me  
+Making amazing software is make fun for me  
 
  
 So during my software journey i was used:
@@ -24,8 +24,8 @@ Currently study:
 
 
 
-Favorite OS : Windows XP / RebornOS /  Fedora 35 with KDE \
-Laptop: Asus Zenbook UX331U  with 2TB hard drive  \
+Favorite OS : Windows XP / RebornOS /  Fedora 35 with KDE / Manjaro with KDE \
+Laptop: Asus Zenbook UX331U  with 2TB hard drive  MacBook Air 2015 8/256 \
 Keyboard : Logitech K380 
 
 
