@@ -12,20 +12,15 @@
 17. https://app.quicktype.io/
 18. https://www.remotion.dev/
 19. https://github.com/vdeconinck/QC3Control
-20. https://m.habr.com/ru/company/ua-hosting/blog/342826/ (ru)
 21. https://www.renderforest.com/logo-maker/editor
-22. https://habr.com/ru/post/594249/ (ru)
 23. https://github.com/lisanet/PiShrink-macOS 
 24. https://github.com/quiet/quiet
 25. https://github.com/solarrust/hacker-laws (ru)
 26. https://github.com/dwmkerr/hacker-laws
 27. https://github.com/angristan/wireguard-install
 28. https://www.jenv.be/
-29. https://habr.com/ru/company/first/blog/648793/ (ru)
 30. https://buananetpbun.github.io/
-31. https://habr.com/ru/post/594885/ (ru)
 32. https://www.airtable.com/
-33. https://habr.com/ru/post/386741/ (ru) Lmao
 34. https://github.com/sindresorhus/awesome (Purely awesome)
 35. https://github.com/valinet?tab=repositories (Make win11 great again repos)
 36. https://source.android.com/devices/bluetooth/asha (hearing aids info)
@@ -41,11 +36,8 @@
 46. https://www.androidpolice.com/google-custom-bluetooth-hearing-aids/
 47. http://minimal.idzona.com/#home
 48. https://blog.codemagic.io/build-video-streaming-with-flutter-and-mux/
-49. https://habr.com/ru/post/657487/
 50. https://www.svgrepo.com/vectors/war/
 51. https://www.vecteezy.com/
-52. https://habr.com/ru/post/258181/ (ru)
-53. https://habr.com/ru/post/659915/ (ru)
 54. https://animate.style/
 55. https://coolcssanimation.com/
 56. https://freefrontend.com/css-animation-examples/
@@ -60,9 +52,6 @@
 65. https://github.com/shiftkey/desktop
 66. https://habr.com/ru/post/661219/ (ru)
 67. https://nativescript.org/
-68. https://habr.com/ru/post/662139/(ru)
-69. https://habr.com/ru/company/selectel/blog/661715/ (ru)
-70. https://habr.com/ru/company/domclick/blog/662401/ (ru)
 71. https://bulmatemplates.github.io/bulma-templates/
 72. 
 73. 
