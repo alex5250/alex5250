@@ -6,6 +6,10 @@ function whoami() {
     return "alex5250"
 }
 
+
+function ua() {
+  return 'But before we continue... I wanna talk about our world. In 24/02/2022 many of my friends, relatives and people matters a lot for me faced an war in Ukraine... The Russian army is killing people in Ukraine,destroy an cities an kill thousands of civils. Is time to help if we want so see modern world not like in 1984 novel. Is not time to discuss. Is a war is a pain and hell. https://saveua.in.ua/en And many others. Stay strong Ukraine! Slava Ukraine'
+}
 function ls() {
   var res = request('GET', 'https://raw.githubusercontent.com/alex5250/alex5250/main/projects.json');
   var json = JSON.parse(res.getBody());
@@ -83,11 +87,11 @@ const commands = {
     usage: 'contact',
     fn: contact,
   },
-  neofetch:{
-    description: 'prints system specs',
-    usage: 'neofetch',
-    fn: neofetch,
-  }
+  ua:{
+    description: 'Slava Ukraine',
+    usage: 'ua',
+    fn: ua,
+  },
 }
 
 export default class MyTerminal extends Component {
