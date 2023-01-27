@@ -5,7 +5,9 @@ import request from 'sync-request';
 function whoami() {
     return "alex5250"
 }
-
+function help_me(){
+  return "This website use usual linux commands for navigation, such as ls cat and else. for example for read all my amazing links saved just type an cat links and it will be shown in terminal."
+}
 
 function ua() {
   return 'But before we continue... I wanna talk about our world. In 24/02/2022 many of my friends, relatives and people matters a lot for me faced an war in Ukraine... The Russian army is killing people in Ukraine,destroy an cities an kill thousands of civils. Is time to help if we want so see modern world not like in 1984 novel. Is not time to discuss. Is a war is a pain and hell. https://saveua.in.ua/en And many others. Stay strong Ukraine! Slava Ukraine'
@@ -85,6 +87,11 @@ const commands = {
     usage: 'ua',
     fn: ua,
   },
+  help_me: {
+    description: 'Help command',
+    usage: 'help_me',
+    fn: help_me,
+  }
 }
 
 export default class MyTerminal extends Component {
@@ -92,7 +99,7 @@ export default class MyTerminal extends Component {
     return (
       <Terminal
         commands={commands}
-        welcomeMessage={'Welcome to alex5250 terminal '}
+        welcomeMessage={'Welcome to alex5250 terminal! If you had no idea what to type type help or help me '}
         promptLabel={'alex5250@shell:~$'}
       />
     )
