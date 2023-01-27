@@ -18,16 +18,9 @@ function ls() {
   var counter=0;
   json.forEach(element => {
     console.log(element)
-    if(counter > 3){
-      all_projects=all_projects+" "+element['project_name']+"\n";
-      counter =0;
-      
-    }
-    else {
-      all_projects=all_projects+" "+element['project_name'];
-    }
-    
-    counter++;
+    all_projects=all_projects+" "+element['project_name'];
+
+ 
 
   });
   console.log(all_projects)
