@@ -6,7 +6,7 @@ function whoami() {
     return "alex5250"
 }
 function help_me(){
-  return "This website use usual linux commands for navigation, such as ls cat and else. for example for read all my amazing links saved just type an cat links and it will be shown in terminal."
+  return "This website use usual linux commands for navigation, such as ls cat and neofetch whoami"
 }
 
 function ua() {
