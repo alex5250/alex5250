@@ -25,8 +25,8 @@ Currently study:
 
 
 Favorite OS : Windows XP / RebornOS /  Fedora 35 with KDE / Manjaro with Gnome \
-Laptop: Asus X Flow 13 and Asus Zenbook UX331U  with 2TB hard drive  MacBook Air 2015 8/256 \
-Keyboard : Logitech K380 
+Laptop: Asus Rog Flow X380 \
+
 
 
 
