@@ -25,7 +25,7 @@ Currently study:
 
 
 Favorite OS : Windows XP / RebornOS /  Fedora 35 with KDE / Manjaro with Gnome \
-Laptop: Asus Rog Flow X380 \
+Laptop: Asus Rog Flow X13
 
 
 
