@@ -17,15 +17,16 @@ Making amazing software is make fun for me.
 
 
 Currently study:
-- F#
-- AI on Python 
-- Hackell 
+- AI on Python
+- Rust
+- CH microcontroller
 
 
 
 
-Favorite OS : Windows XP / RebornOS /  Fedora 35 with KDE / Manjaro with Gnome \
-Laptop: Asus Rog Flow X13
+
+Favorite OS : Windows XP / RebornOS / Fedora 40 
+Laptop: Lenovo Thinkpad E16 Gen 1
 
 
 
