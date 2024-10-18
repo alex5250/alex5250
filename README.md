@@ -1,6 +1,5 @@
 ### Hello my name is Alex
-I am working  on open source drone platform.\
-Coding for  [Electrics Eagles](https://www.eeagles.net) . \
+
 Website : https://alex5250.github.io/alex5250/ \
 Making amazing software is make fun for me.
 # Skils:
