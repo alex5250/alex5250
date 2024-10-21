@@ -1,6 +1,6 @@
 ### Hello my name is Alex
 
-Website : https://alex5250.github.io/alex5250/ \
+Website : [https://azaslavskis.github.io/azaslavskis/](https://azaslavskis.github.io/azaslavskis/) \
 Making amazing software is make fun for me.
 # Skils:
 1. Had experience in C and been programming embbeded systems such as microcontrollers and Embbeded Linux systems. As example is main project [pielectricseagles](https://github.com/Electrics-Eagles/PiElectricsEagles-dev/) or [metiostation c code](https://github.com/alex5250/metiostation-code)
