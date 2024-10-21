@@ -18,7 +18,7 @@ Making amazing software is make fun for me.
 Currently study:
 - AI on Python
 - Rust
-- CH microcontroller
+- CH32 microcontroller
 
 
 
